@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm congyu</h1>
 
-Welcome to my maker hub. Right, this is where I make things.
+Welcome to my github page.
 
 ![Congyu's Github Stats](https://github-readme-stats.vercel.app/api?username=congyuwang&show_icons=true&locale=en&theme=dark&hide_border=true)
 
