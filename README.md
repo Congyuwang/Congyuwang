@@ -8,6 +8,10 @@ Welcome to my github page.
 
 How to contact me: leonwang998@gmail.com
 
-CUHKSZ BBA of Econonomics Science
+
+
+CUHKSZ BBA of Economics Science
+
 CUHKSZ BSc of Data Science
+
 Self-taught Computer Science
